@@ -1,0 +1,27 @@
+{
+  "name": "i18n-namespace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Use namespace on i18n",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinnakrit/i18n-namespace.git"
+  },
+  "keywords": [
+    "i18n",
+    "react",
+    "react",
+    "native",
+    "javascript"
+  ],
+  "author": "Thinnakrit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinnakrit/i18n-namespace/issues"
+  },
+  "homepage": "https://github.com/thinnakrit/i18n-namespace#readme"
+}
