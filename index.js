@@ -1,7 +1,7 @@
 import I18n from 'i18n-js'
 /**
  *
- * @param {string} textKey The value to check.
+ * @param {string} textKey Text key from language files
  * @param {object} options i18n options
  * @param {string} nameSpace Custom namespace on i18n language files
  * @returns {string} text from i18n and default return common
